@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Scanner</string>
+    <string name="action_scan">Scan</string>
+    <string name="action_copy">Copy</string>
+    <string name="label_copy">Copied data</string>
+    <string name="message_copy">Data copied to clipboard</string>
+    <string name="action_start">Start</string>
+    <string name="action_stop">Stop</string>
+    <string name="action_finish">Finish</string>
+</resources>
